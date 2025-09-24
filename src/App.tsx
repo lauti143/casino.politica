@@ -240,7 +240,7 @@ function App() {
               <footer className="text-center mt-12 py-8 border-t border-gray-700/50">
                 <p className="text-gray-400 mb-2">🎰 Casino Royal - La Experiencia de Juego Más Épica 🎰</p>
                 <p className="text-sm text-gray-500">
-                  Desarrollado con ❤️ y mucha pasión por <span className="text-yellow-400 font-bold animate-pulse">kevinssj</span>
+                  Desarrollado con ❤️ y mucha pasión por <span className="text-yellow-400 font-bold animate-pulse">Monte</span>
                 </p>
                 <p className="text-xs text-gray-600 mt-1">
                   Tecnología: React + TypeScript + Tailwind CSS + Sonidos Épicos + Animaciones Premium
