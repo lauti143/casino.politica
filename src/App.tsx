@@ -129,7 +129,7 @@ function App() {
                   Bienvenido al Casino
                 </h2>
                 <p className="text-2xl text-gray-300 mb-4">
-                  🎰 El Casino Online Más Épico del Mundo 🎰
+                  🎰 El Casino Online Más Épico del CEF 🎰
                 </p>
                 <p className="text-lg text-gray-400 mb-8">
                   Experimenta la emoción del juego con gráficos increíbles, sonidos épicos y mecánicas auténticas
@@ -238,7 +238,7 @@ function App() {
 
               {/* Footer */}
               <footer className="text-center mt-12 py-8 border-t border-gray-700/50">
-                <p className="text-gray-400 mb-2">🎰 Casino Royal - La Experiencia de Juego Más Épica 🎰</p>
+                <p className="text-gray-400 mb-2">🎰 Casino CEF - La Experiencia de Juego Más Épica 🎰</p>
                 <p className="text-sm text-gray-500">
                   Desarrollado con ❤️ y mucha pasión por <span className="text-yellow-400 font-bold animate-pulse">Monte</span>
                 </p>

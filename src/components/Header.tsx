@@ -19,7 +19,7 @@ const Header: React.FC<HeaderProps> = ({ credits, gamesPlayed, totalWins }) => {
           </div>
           <div>
             <h1 className="text-3xl font-bold bg-gradient-to-r from-yellow-400 via-red-400 to-yellow-400 bg-clip-text text-transparent">
-              CASINO ROYAL
+              Casino CEF
             </h1>
             <p className="text-sm text-gray-300">Desarrollado por Mesa Sigma <span className="text-yellow-400 font-semibold"></span></p>
           </div>
